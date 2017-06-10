@@ -1,4 +1,4 @@
-# Assn4 - Paging/Swapping Simulation
+# OS Simulator - Paging/Swapping Simulation
 
 Please ensure that you are using Python v3.xx during your development.
 The official documentation may be found [here](https://docs.python.org/3/)
